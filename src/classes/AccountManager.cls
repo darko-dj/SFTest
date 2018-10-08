@@ -1,3 +1,4 @@
+/* Adding comment to check CI */
 @RestResource(urlMapping='/Account/*/contacts')
 global with sharing class AccountManager {
 	
